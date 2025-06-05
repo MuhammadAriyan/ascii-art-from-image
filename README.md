@@ -18,8 +18,3 @@ A simple Python tool to convert images into ASCII art.
 ```bash
 uv run main.py 
 ```
-
-### Arguments
-- `--input`: Path to the input image file
-- `--output`: (Optional) Path to save the ASCII output
-- `--width`: (Optional) Output width in characters (default: 100)
