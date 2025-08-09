@@ -16,5 +16,7 @@ A simple Python tool to convert images into ASCII art.
 ## Usage
 
 ```bash
+pip install AcsiiArt
+
 uv run main.py 
 ```
